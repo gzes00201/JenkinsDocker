@@ -1,3 +1,6 @@
+# Jenkins Docker 版
+使用Docker 建置 Jenkins 環境,並掛載本機Volumes
+
 # 给脚本授权
 chmod u+x *.sh
 # 创建Jenkins数据目录（用作持久卷）
