@@ -1,6 +1,10 @@
 # Jenkins Docker 版
 使用Docker 建置 Jenkins 環境,並掛載本機Volumes
 
+# 環境要求
+    1.Mac or Linux
+    2.Docker Compose
+
 # 執行方法
     给脚本授權
         chmod u+x *.sh
